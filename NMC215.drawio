@@ -79,6 +79,39 @@
             <mxPoint x="390" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fWEatDimK1wb_yXRniuB-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="260" as="sourcePoint" />
+            <mxPoint x="480" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="209.71" as="sourcePoint" />
+            <mxPoint x="360" y="209.71" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fWEatDimK1wb_yXRniuB-25" target="fWEatDimK1wb_yXRniuB-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-25" value="模拟量反馈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="225" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-26" value="工装板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="125" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-27" value="PA0-P14" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="225" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-28" value="PA1-P15" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="255" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-29" value="PA2-P16" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="285" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
