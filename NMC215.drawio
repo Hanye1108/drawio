@@ -19,13 +19,13 @@
         <mxCell id="fWEatDimK1wb_yXRniuB-7" value="M-" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="205" y="200" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-9" value="待测板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-9" value="待测板" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="30" y="141" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-10" value="P1-1 TV-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-10" value="P1-1 TV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="30" y="181" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-11" value="P1-2 TV-2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-11" value="P1-2 TV-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="30" y="201" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fWEatDimK1wb_yXRniuB-14" value="编码器A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
