@@ -4,19 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fWEatDimK1wb_yXRniuB-1" value="功率电阻&lt;br&gt;4R 50W" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-1" value="功率电阻&lt;br&gt;4R 50W" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="205" y="120" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-2" value="功率电阻&lt;br&gt;4R 50W" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-2" value="功率电阻&lt;br&gt;4R 50W" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="205" y="150" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-5" value="电机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-5" value="电机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="205" y="260" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-6" value="M+" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-6" value="M+" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="205" y="180" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-7" value="M-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-7" value="M-" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="205" y="200" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fWEatDimK1wb_yXRniuB-9" value="待测板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -28,10 +28,10 @@
         <mxCell id="fWEatDimK1wb_yXRniuB-11" value="P1-2 TV-2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="201" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-14" value="编码器A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-14" value="编码器A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="205" y="220" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-15" value="编码器B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-15" value="编码器B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="205" y="240" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fWEatDimK1wb_yXRniuB-16" value="电流采集模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
