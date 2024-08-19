@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="第 1 页" id="fsKE9IQoVAuPPi1mYyoE">
-    <mxGraphModel dx="408" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="792" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,28 +34,28 @@
         <mxCell id="fWEatDimK1wb_yXRniuB-15" value="编码器B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="205" y="240" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-16" value="电流采集模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-16" value="电流采集模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="360" y="140" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-17" value="IN1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-17" value="IN1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="360" y="180" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-18" value="IN2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-18" value="IN2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-25" value="模拟量反馈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-25" value="模拟量反馈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="360" y="260" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-26" value="工装板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-26" value="工装板" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="490" y="115" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-27" value="PA0-P14" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-27" value="PA0-P14" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="490" y="220" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-28" value="PA1-P15" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-28" value="PA1-P15" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="490" y="240" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-29" value="PA2-P16" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-29" value="PA2-P16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="490" y="260" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fWEatDimK1wb_yXRniuB-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fWEatDimK1wb_yXRniuB-11" target="fWEatDimK1wb_yXRniuB-7">
