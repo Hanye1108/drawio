@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fWEatDimK1wb_yXRniuB-1" value="功率电阻&lt;br&gt;4R 50W" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="111" width="90" height="30" as="geometry" />
+          <mxGeometry x="205" y="120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fWEatDimK1wb_yXRniuB-2" value="功率电阻&lt;br&gt;4R 50W" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="141" width="90" height="30" as="geometry" />
+          <mxGeometry x="205" y="150" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fWEatDimK1wb_yXRniuB-5" value="电机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="260" width="90" height="40" as="geometry" />
@@ -94,12 +94,12 @@
             <mxPoint x="340" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fWEatDimK1wb_yXRniuB-38" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fWEatDimK1wb_yXRniuB-1">
+        <mxCell id="fWEatDimK1wb_yXRniuB-38" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fWEatDimK1wb_yXRniuB-2" target="fWEatDimK1wb_yXRniuB-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="295" y="160" as="sourcePoint" />
-            <mxPoint x="340" y="180" as="targetPoint" />
+            <mxPoint x="295" y="169" as="sourcePoint" />
+            <mxPoint x="340" y="189" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="140" />
+              <mxPoint x="330" y="149" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -107,6 +107,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="230" as="sourcePoint" />
             <mxPoint x="340" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fWEatDimK1wb_yXRniuB-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="164" as="sourcePoint" />
+            <mxPoint x="205" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="144" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
