@@ -29,13 +29,49 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fWEatDimK1wb_yXRniuB-5" value="电机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="140" width="90" height="40" as="geometry" />
+          <mxGeometry x="480" y="125" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fWEatDimK1wb_yXRniuB-6" value="M+" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="180" width="90" height="30" as="geometry" />
+          <mxGeometry x="480" y="165" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fWEatDimK1wb_yXRniuB-7" value="M-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="210" width="90" height="30" as="geometry" />
+          <mxGeometry x="480" y="195" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-9" value="待测板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="125" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-10" value="P1-1 TV-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="165" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-11" value="P1-2 TV-2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="195" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fWEatDimK1wb_yXRniuB-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="230" as="sourcePoint" />
+            <mxPoint x="160" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-14" value="编码器A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="225" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-15" value="编码器B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="255" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-16" value="电流采集模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="125" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-17" value="IN1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="165" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-18" value="IN2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="195" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fWEatDimK1wb_yXRniuB-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fWEatDimK1wb_yXRniuB-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="180" as="sourcePoint" />
+            <mxPoint x="390" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
