@@ -370,6 +370,9 @@
         <mxCell id="qu0UYMMwJbKnimjxBpkP-59" value="信号调理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="890" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qu0UYMMwJbKnimjxBpkP-60" value="IN1采集" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="970" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
