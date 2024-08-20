@@ -322,6 +322,12 @@
         <mxCell id="qu0UYMMwJbKnimjxBpkP-39" value="对外输出端口采集" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="25" y="750" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qu0UYMMwJbKnimjxBpkP-40" value="NMC215" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="63" y="800" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qu0UYMMwJbKnimjxBpkP-41" value="工装板" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="370" y="800" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
