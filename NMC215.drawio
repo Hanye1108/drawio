@@ -328,6 +328,12 @@
         <mxCell id="qu0UYMMwJbKnimjxBpkP-41" value="工装板" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="370" y="800" width="200" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="qu0UYMMwJbKnimjxBpkP-42" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="880" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qu0UYMMwJbKnimjxBpkP-43" value="工装板供电" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="860" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
