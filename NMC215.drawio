@@ -412,13 +412,13 @@
         <mxCell id="qu0UYMMwJbKnimjxBpkP-78" value="NMC215" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="1120" width="107" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="qu0UYMMwJbKnimjxBpkP-79" value="IN1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="qu0UYMMwJbKnimjxBpkP-78">
+        <mxCell id="qu0UYMMwJbKnimjxBpkP-79" value="IN2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="qu0UYMMwJbKnimjxBpkP-78">
           <mxGeometry y="26" width="107" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qu0UYMMwJbKnimjxBpkP-80" value="工装板" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="307" y="1120" width="107" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="qu0UYMMwJbKnimjxBpkP-81" value="PB9-P62" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="qu0UYMMwJbKnimjxBpkP-80">
+        <mxCell id="qu0UYMMwJbKnimjxBpkP-81" value="PB10-P63" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="qu0UYMMwJbKnimjxBpkP-80">
           <mxGeometry y="26" width="107" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qu0UYMMwJbKnimjxBpkP-82" value="信号调理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
