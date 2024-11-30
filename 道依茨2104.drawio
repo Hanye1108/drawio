@@ -13,7 +13,7 @@
         <mxCell id="UneD9aS1JqehnLIWqehY-2" value="常电线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UneD9aS1JqehnLIWqehY-3" value="NMC308" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UneD9aS1JqehnLIWqehY-3" value="NMC308-P1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UneD9aS1JqehnLIWqehY-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UneD9aS1JqehnLIWqehY-3">
@@ -94,6 +94,9 @@
         </mxCell>
         <mxCell id="UneD9aS1JqehnLIWqehY-18" value="点火线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="71" y="416" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UneD9aS1JqehnLIWqehY-19" value="点火" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
