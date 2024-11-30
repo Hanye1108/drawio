@@ -98,6 +98,9 @@
         <mxCell id="UneD9aS1JqehnLIWqehY-19" value="点火" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="220" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UneD9aS1JqehnLIWqehY-20" value="离合触点开关操作侧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="131" y="520" width="30" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
