@@ -61,7 +61,7 @@
             <mxPoint x="427" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UneD9aS1JqehnLIWqehY-12" value="P1-2-COM22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UneD9aS1JqehnLIWqehY-11">
+        <mxCell id="UneD9aS1JqehnLIWqehY-12" value="P1-4-COM23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UneD9aS1JqehnLIWqehY-11">
           <mxGeometry x="-0.219" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -72,7 +72,7 @@
             <mxPoint x="510" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UneD9aS1JqehnLIWqehY-14" value="P1-2-COM22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UneD9aS1JqehnLIWqehY-13">
+        <mxCell id="UneD9aS1JqehnLIWqehY-14" value="P1-9-COM24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UneD9aS1JqehnLIWqehY-13">
           <mxGeometry x="-0.219" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
