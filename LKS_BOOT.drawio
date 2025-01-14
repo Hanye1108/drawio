@@ -130,6 +130,12 @@
         <mxCell id="IYtFgDfIM9FLVhiezO-n-34" value="APP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="260" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IYtFgDfIM9FLVhiezO-n-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="92.5" width="20" height="425" as="geometry" />
+        </mxCell>
+        <mxCell id="IYtFgDfIM9FLVhiezO-n-36" value="APP区&lt;div&gt;地址：0x5000~0x1E00&lt;/div&gt;&lt;div&gt;大小：100kb&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="310" width="180" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
