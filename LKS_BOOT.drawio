@@ -241,7 +241,7 @@
             <mxRectangle width="121" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IYtFgDfIM9FLVhiezO-n-85" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;SN、PN&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="IYtFgDfIM9FLVhiezO-n-82">
+        <mxCell id="IYtFgDfIM9FLVhiezO-n-85" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;用户配置&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="IYtFgDfIM9FLVhiezO-n-82">
           <mxGeometry x="243" width="71" height="23" as="geometry">
             <mxRectangle width="71" height="23" as="alternateBounds" />
           </mxGeometry>
