@@ -222,7 +222,7 @@
             <mxRectangle width="60" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IYtFgDfIM9FLVhiezO-n-36" value="APP区&lt;div&gt;地址：0x5000~0x1E00&lt;/div&gt;&lt;div&gt;大小：100kb&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IYtFgDfIM9FLVhiezO-n-36" value="APP区&lt;div&gt;地址：&lt;font style=&quot;color: rgb(255, 34, 10);&quot;&gt;0x5000~0x1E00&lt;/font&gt;&lt;/div&gt;&lt;div&gt;大小：&lt;font style=&quot;color: rgb(255, 34, 10);&quot;&gt;100kb&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="432.5" y="590" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IYtFgDfIM9FLVhiezO-n-81" value="UserCfg(共8kb)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=12;" vertex="1" parent="1">
