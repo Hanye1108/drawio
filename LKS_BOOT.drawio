@@ -84,7 +84,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IYtFgDfIM9FLVhiezO-n-20" value="BOOTLOADER" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IYtFgDfIM9FLVhiezO-n-20" value="bootloader" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="154" y="260" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IYtFgDfIM9FLVhiezO-n-21" value="Cfg" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
