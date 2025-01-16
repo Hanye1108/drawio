@@ -1,9 +1,58 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="第 1 页" id="6qE1fdPvKx7LQ-FyJ1fs">
-    <mxGraphModel>
+    <mxGraphModel dx="1562" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4jNAvsQPK2Jj0UVbKuHs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4jNAvsQPK2Jj0UVbKuHs-1" target="4jNAvsQPK2Jj0UVbKuHs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4jNAvsQPK2Jj0UVbKuHs-1" value="程序启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jNAvsQPK2Jj0UVbKuHs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4jNAvsQPK2Jj0UVbKuHs-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4jNAvsQPK2Jj0UVbKuHs-2" value="定位需要在 SRAM 中运行的 Flash 操作代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="210" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4jNAvsQPK2Jj0UVbKuHs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4jNAvsQPK2Jj0UVbKuHs-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4jNAvsQPK2Jj0UVbKuHs-5" value="将代码从 Flash 搬运至 SRAM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="290" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jNAvsQPK2Jj0UVbKuHs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4jNAvsQPK2Jj0UVbKuHs-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4jNAvsQPK2Jj0UVbKuHs-6" value="关闭XIP模块，启用Flash控制器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="360" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jNAvsQPK2Jj0UVbKuHs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4jNAvsQPK2Jj0UVbKuHs-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4jNAvsQPK2Jj0UVbKuHs-7" value="关闭Flash控制器，重新启用XIP模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="500" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jNAvsQPK2Jj0UVbKuHs-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4jNAvsQPK2Jj0UVbKuHs-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4jNAvsQPK2Jj0UVbKuHs-8" value="Flash操作/读/写/擦" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="430" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jNAvsQPK2Jj0UVbKuHs-9" value="返回程序执行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="570" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
