@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="第 1 页" id="RwKRUdb6omZw9n0qGPdk">
-    <mxGraphModel>
+    <mxGraphModel dx="1178" dy="1260" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1j1WEczs1IqRVyPQzGFo-1" value="GPIO3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="96" y="-68" width="83" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="1j1WEczs1IqRVyPQzGFo-2" value="GPIO3A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="17" width="71" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1j1WEczs1IqRVyPQzGFo-3" value="GPIO3B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="17" width="71" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1j1WEczs1IqRVyPQzGFo-4" value="GPIO3C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="139" y="17" width="71" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1j1WEczs1IqRVyPQzGFo-5" value="GPIO3D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="17" width="71" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1j1WEczs1IqRVyPQzGFo-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="119.5" y="-131" width="20" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="1j1WEczs1IqRVyPQzGFo-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-1.5" y="33" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1j1WEczs1IqRVyPQzGFo-8" value="GPIO3_A0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="115" width="73" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="1j1WEczs1IqRVyPQzGFo-9" value="GPIO3_A7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="115" width="73" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="1j1WEczs1IqRVyPQzGFo-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1.5" y="130.5" as="sourcePoint" />
+            <mxPoint x="27.5" y="130.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1j1WEczs1IqRVyPQzGFo-11" value="GPIO3下分为GPIO3A~GPIO3D&lt;div&gt;其各自下面又分为GPIO3_A0~&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;GPIO3_A7&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="-219" width="389" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="1j1WEczs1IqRVyPQzGFo-13" value="31：16" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-69" y="219" width="216" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="1j1WEczs1IqRVyPQzGFo-14" value="15：0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="219" width="216" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="1j1WEczs1IqRVyPQzGFo-15" value="GPIO_SWPORT_DDR_L，GPIO方向寄存器（输入/输出）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-75.5" y="189" width="439" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1j1WEczs1IqRVyPQzGFo-16" value="GPIO_SWPORT_DDR_L配置GPIOX_A[0~7]、GPIOX_B[0~7]&lt;div&gt;eg:bit[0]对应GPIOX_A0&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;bit[15]对应GPIOX_B7&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="263" width="573" height="74" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
