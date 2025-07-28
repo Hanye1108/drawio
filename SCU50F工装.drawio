@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.4">
   <diagram name="第 1 页" id="gV8dkAIg4welC2k9WtTy">
-    <mxGraphModel dx="1188" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6KeI-3-1y-6zCE1gBCKr-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="110" width="90" height="30" as="geometry" />
+          <mxGeometry x="405" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6KeI-3-1y-6zCE1gBCKr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6KeI-3-1y-6zCE1gBCKr-2" target="6KeI-3-1y-6zCE1gBCKr-4">
           <mxGeometry relative="1" as="geometry" />
@@ -35,6 +35,27 @@
         </mxCell>
         <mxCell id="6KeI-3-1y-6zCE1gBCKr-9" value="选择待测板型号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KeI-3-1y-6zCE1gBCKr-13" value="SN-PN查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="430" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KeI-3-1y-6zCE1gBCKr-14" value="待测项测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KeI-3-1y-6zCE1gBCKr-15" value="测试是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="550" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KeI-3-1y-6zCE1gBCKr-16" value="设置测试保存路径：PASS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6KeI-3-1y-6zCE1gBCKr-19" value="测试结果保存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="700" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KeI-3-1y-6zCE1gBCKr-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KeI-3-1y-6zCE1gBCKr-23" value="设置测试保存路径：FAIL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
