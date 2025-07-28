@@ -1,9 +1,41 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.4">
   <diagram name="第 1 页" id="gV8dkAIg4welC2k9WtTy">
-    <mxGraphModel>
+    <mxGraphModel dx="1188" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6KeI-3-1y-6zCE1gBCKr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6KeI-3-1y-6zCE1gBCKr-1" target="6KeI-3-1y-6zCE1gBCKr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6KeI-3-1y-6zCE1gBCKr-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KeI-3-1y-6zCE1gBCKr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6KeI-3-1y-6zCE1gBCKr-2" target="6KeI-3-1y-6zCE1gBCKr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6KeI-3-1y-6zCE1gBCKr-8" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6KeI-3-1y-6zCE1gBCKr-7">
+          <mxGeometry x="-0.4413" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6KeI-3-1y-6zCE1gBCKr-2" value="连接串口" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6KeI-3-1y-6zCE1gBCKr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6KeI-3-1y-6zCE1gBCKr-3" target="6KeI-3-1y-6zCE1gBCKr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6KeI-3-1y-6zCE1gBCKr-3" value="选择对应端口号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KeI-3-1y-6zCE1gBCKr-4" value="SN-PN设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KeI-3-1y-6zCE1gBCKr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6KeI-3-1y-6zCE1gBCKr-9" target="6KeI-3-1y-6zCE1gBCKr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6KeI-3-1y-6zCE1gBCKr-9" value="选择待测板型号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
