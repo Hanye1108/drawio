@@ -107,7 +107,7 @@
         <mxCell id="aoszYgEWPdiQylzjzB4t-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QkOga2Paq5YC0D7qiNBv-1" target="aoszYgEWPdiQylzjzB4t-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QkOga2Paq5YC0D7qiNBv-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QkOga2Paq5YC0D7qiNBv-1" value="start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="180" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aoszYgEWPdiQylzjzB4t-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aoszYgEWPdiQylzjzB4t-1" target="aoszYgEWPdiQylzjzB4t-2">
@@ -199,6 +199,9 @@
         <mxCell id="aoszYgEWPdiQylzjzB4t-19" value="开始测试on_TEST_START_clicked()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="390" width="211" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aoszYgEWPdiQylzjzB4t-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aoszYgEWPdiQylzjzB4t-21" target="aoszYgEWPdiQylzjzB4t-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aoszYgEWPdiQylzjzB4t-21" value="串口返回测试数据检查test_result_compare()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="460" width="260" height="30" as="geometry" />
         </mxCell>
@@ -214,8 +217,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="aoszYgEWPdiQylzjzB4t-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aoszYgEWPdiQylzjzB4t-23" target="aoszYgEWPdiQylzjzB4t-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aoszYgEWPdiQylzjzB4t-23" value="测试结果保存savetoexcel()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1154" y="460" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aoszYgEWPdiQylzjzB4t-25" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="460" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
