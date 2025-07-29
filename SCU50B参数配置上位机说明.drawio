@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="NeOZQ0dyBE4NOlgX1TNu">
-    <mxGraphModel dx="815" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,70 +241,65 @@
         <mxCell id="uWLSrax9oehgRug97Yif-122" value="菜单、状态栏初始化" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1030" y="235" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uWLSrax9oehgRug97Yif-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-125" target="uWLSrax9oehgRug97Yif-127">
+        <mxCell id="uWLSrax9oehgRug97Yif-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-125" target="uWLSrax9oehgRug97Yif-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uWLSrax9oehgRug97Yif-125" value="MainWindow_start" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2310" y="550" width="110" height="30" as="geometry" />
+        <mxCell id="uWLSrax9oehgRug97Yif-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-125" target="uWLSrax9oehgRug97Yif-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-125" target="uWLSrax9oehgRug97Yif-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-125" target="uWLSrax9oehgRug97Yif-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-125" value="connect_widget_start" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="580" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-126" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-127" target="uWLSrax9oehgRug97Yif-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uWLSrax9oehgRug97Yif-127" value="定时更新电机基础信息upDateLedData()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2450" y="550" width="230" height="30" as="geometry" />
+        <mxCell id="uWLSrax9oehgRug97Yif-127" value="定时读取CAN数据ReadCanDataFunc()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="500" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-128" value="创建MdiArea副窗口createSubWindow()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2720" y="550" width="240" height="30" as="geometry" />
+          <mxGeometry x="2840" y="540" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-129" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-130" target="uWLSrax9oehgRug97Yif-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-130" value="创建下侧状态栏createStatusBar()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2340" y="620" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uWLSrax9oehgRug97Yif-131" value="" style="curved=1;endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-128" target="uWLSrax9oehgRug97Yif-130">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2960" y="570" as="sourcePoint" />
-            <mxPoint x="2290" y="620" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2990" y="565" />
-              <mxPoint x="2980" y="590" />
-              <mxPoint x="2940" y="600" />
-              <mxPoint x="2330" y="600" />
-              <mxPoint x="2310" y="620" />
-              <mxPoint x="2320" y="640" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="2310" y="980" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-132" value="创建菜单栏Action动作on_action1_triggered()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2600" y="620" width="390" height="30" as="geometry" />
+          <mxGeometry x="2570" y="980" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-133" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-134" target="uWLSrax9oehgRug97Yif-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-134" value="切换界面槽函数" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2340" y="690" width="210" height="30" as="geometry" />
+          <mxGeometry x="2310" y="1050" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-135" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-136" target="uWLSrax9oehgRug97Yif-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-136" value="SN配置on_button_set_sn_clicked()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2590" y="690" width="210" height="30" as="geometry" />
+          <mxGeometry x="2560" y="1050" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-137" value="出厂信息查询on_button_get_info_clicked()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2840" y="690" width="240" height="30" as="geometry" />
+          <mxGeometry x="2810" y="1050" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-138" value="" style="curved=1;endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.565;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="uWLSrax9oehgRug97Yif-134">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2990" y="635" as="sourcePoint" />
-            <mxPoint x="2300" y="710" as="targetPoint" />
+            <mxPoint x="2960" y="995" as="sourcePoint" />
+            <mxPoint x="2270" y="1070" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3020" y="635" />
-              <mxPoint x="2980" y="680" />
-              <mxPoint x="2340" y="680" />
-              <mxPoint x="2320" y="680" />
-              <mxPoint x="2310" y="700" />
-              <mxPoint x="2320" y="710" />
+              <mxPoint x="2990" y="995" />
+              <mxPoint x="2950" y="1040" />
+              <mxPoint x="2310" y="1040" />
+              <mxPoint x="2290" y="1040" />
+              <mxPoint x="2280" y="1060" />
+              <mxPoint x="2290" y="1070" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -312,46 +307,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-140" value="串口接收数据处理serialDataReceived()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2584" y="760" width="230" height="30" as="geometry" />
+          <mxGeometry x="2554" y="1120" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-141" value="" style="curved=1;endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="uWLSrax9oehgRug97Yif-144">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3080" y="705" as="sourcePoint" />
-            <mxPoint x="2340" y="780" as="targetPoint" />
+            <mxPoint x="3050" y="1065" as="sourcePoint" />
+            <mxPoint x="2310" y="1140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3110" y="705" />
-              <mxPoint x="3070" y="750" />
-              <mxPoint x="2420" y="740" />
-              <mxPoint x="2310" y="750" />
-              <mxPoint x="2310" y="780" />
+              <mxPoint x="3080" y="1065" />
+              <mxPoint x="3040" y="1110" />
+              <mxPoint x="2390" y="1100" />
+              <mxPoint x="2280" y="1110" />
+              <mxPoint x="2280" y="1140" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-142" value="数据解析parseScuParam()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2854" y="760" width="170" height="30" as="geometry" />
+          <mxGeometry x="2824" y="1120" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-143" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-144" target="uWLSrax9oehgRug97Yif-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-144" value="开始测试on_TEST_START_clicked()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2340" y="760" width="211" height="30" as="geometry" />
+          <mxGeometry x="2310" y="1120" width="211" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-145" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-146" target="uWLSrax9oehgRug97Yif-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-146" value="串口返回测试数据检查test_result_compare()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2340" y="830" width="260" height="30" as="geometry" />
+          <mxGeometry x="2310" y="1190" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-147" value="" style="curved=1;endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="uWLSrax9oehgRug97Yif-146">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3024" y="774" as="sourcePoint" />
-            <mxPoint x="2284" y="845" as="targetPoint" />
+            <mxPoint x="2994" y="1134" as="sourcePoint" />
+            <mxPoint x="2254" y="1205" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3050" y="790" />
-              <mxPoint x="3010" y="809" />
-              <mxPoint x="2364" y="809" />
-              <mxPoint x="2310" y="830" />
-              <mxPoint x="2320" y="850" />
+              <mxPoint x="3020" y="1150" />
+              <mxPoint x="2980" y="1169" />
+              <mxPoint x="2334" y="1169" />
+              <mxPoint x="2280" y="1190" />
+              <mxPoint x="2290" y="1210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -359,10 +354,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-149" value="测试结果保存savetoexcel()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2644" y="830" width="170" height="30" as="geometry" />
+          <mxGeometry x="2614" y="1190" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-150" value="end" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2870" y="830" width="70" height="30" as="geometry" />
+          <mxGeometry x="2840" y="1190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-151" value="定时下发转速控制motorSpeedCtrl()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="550" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-152" value="定时读取电机信息motorElectricalParametersAcquisition()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="600" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-153" value="定时检查电机连接状态onTimeout()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="650" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
