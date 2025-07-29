@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="NeOZQ0dyBE4NOlgX1TNu">
-    <mxGraphModel dx="460" dy="240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="951" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -408,10 +408,7 @@
         <mxCell id="uWLSrax9oehgRug97Yif-214" value="当前配置标题设置" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="4340" y="205" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uWLSrax9oehgRug97Yif-220" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-222" target="uWLSrax9oehgRug97Yif-224">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uWLSrax9oehgRug97Yif-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-222" target="uWLSrax9oehgRug97Yif-227">
+        <mxCell id="uWLSrax9oehgRug97Yif-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-222" target="uWLSrax9oehgRug97Yif-224">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-222" value="form1_widget_start" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
@@ -420,20 +417,17 @@
         <mxCell id="uWLSrax9oehgRug97Yif-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-224" target="uWLSrax9oehgRug97Yif-228">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uWLSrax9oehgRug97Yif-224" value="速度显示图表初始化QCustomPlotInit_speed()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="3650" y="760" width="270" height="30" as="geometry" />
+        <mxCell id="uWLSrax9oehgRug97Yif-224" value="判断窗口标题on_Form1_windowTitleChanged()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3630" y="790" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uWLSrax9oehgRug97Yif-225" value="定时添加电流数据realtimeDataSlot_current()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="3970" y="820" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uWLSrax9oehgRug97Yif-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-227" target="uWLSrax9oehgRug97Yif-225">
+        <mxCell id="uWLSrax9oehgRug97Yif-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-228" target="uWLSrax9oehgRug97Yif-231">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uWLSrax9oehgRug97Yif-227" value="电流显示图表初始化QCustomPlotInit_info()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="3650" y="820" width="270" height="30" as="geometry" />
+        <mxCell id="uWLSrax9oehgRug97Yif-228" value="详细信息显示" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3940" y="790" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uWLSrax9oehgRug97Yif-228" value="定时添加转速数据realtimeDataSlot()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="3970" y="760" width="260" height="30" as="geometry" />
+        <mxCell id="uWLSrax9oehgRug97Yif-231" value="参数下发on_pushButton_clicked()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="4060" y="790" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
