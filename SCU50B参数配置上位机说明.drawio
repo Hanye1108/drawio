@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uWLSrax9oehgRug97Yif-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="80" width="760" height="450" as="geometry" />
+          <mxGeometry x="110" y="70" width="760" height="460" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-3" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;MainWindow&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="530" width="220" height="40" as="geometry" />
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-12" value="QMdiArea&lt;br&gt;用于切换副界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="110" width="600" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-13" value="QMenu 菜单栏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="720" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
