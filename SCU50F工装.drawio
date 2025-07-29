@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="gV8dkAIg4welC2k9WtTy">
-    <mxGraphModel dx="133" dy="69" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,8 +140,14 @@
         <mxCell id="aoszYgEWPdiQylzjzB4t-7" value="选择待测板型号on_comboBox_switchBoard_currentTextChanged()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="250" width="390" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aoszYgEWPdiQylzjzB4t-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aoszYgEWPdiQylzjzB4t-9" target="aoszYgEWPdiQylzjzB4t-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aoszYgEWPdiQylzjzB4t-9" value="PN配置on_button_set_pn_clicked()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="320" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aoszYgEWPdiQylzjzB4t-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aoszYgEWPdiQylzjzB4t-10" target="aoszYgEWPdiQylzjzB4t-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aoszYgEWPdiQylzjzB4t-10" value="SN配置on_button_set_sn_clicked()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="320" width="210" height="30" as="geometry" />
