@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="gV8dkAIg4welC2k9WtTy">
-    <mxGraphModel dx="1678" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,37 +108,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QkOga2Paq5YC0D7qiNBv-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="560" width="70" height="30" as="geometry" />
+          <mxGeometry x="800" y="180" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aoszYgEWPdiQylzjzB4t-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aoszYgEWPdiQylzjzB4t-1" target="aoszYgEWPdiQylzjzB4t-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aoszYgEWPdiQylzjzB4t-1" value="定时搜索本机串口timeout_SearchSerialPort()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="560" width="270" height="30" as="geometry" />
+          <mxGeometry x="900" y="180" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aoszYgEWPdiQylzjzB4t-2" value="本机串口端口号排序newPortStringList_sort()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="560" width="270" height="30" as="geometry" />
+          <mxGeometry x="1200" y="180" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aoszYgEWPdiQylzjzB4t-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aoszYgEWPdiQylzjzB4t-5" target="aoszYgEWPdiQylzjzB4t-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aoszYgEWPdiQylzjzB4t-5" value="打开串口on_UART_OPEN_clicked()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="630" width="220" height="30" as="geometry" />
+          <mxGeometry x="850" y="250" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aoszYgEWPdiQylzjzB4t-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aoszYgEWPdiQylzjzB4t-2" target="aoszYgEWPdiQylzjzB4t-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1430" y="580" as="sourcePoint" />
-            <mxPoint x="760" y="630" as="targetPoint" />
+            <mxPoint x="1470" y="200" as="sourcePoint" />
+            <mxPoint x="800" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1460" y="575" />
-              <mxPoint x="1410" y="610" />
-              <mxPoint x="770" y="610" />
-              <mxPoint x="790" y="650" />
+              <mxPoint x="1500" y="195" />
+              <mxPoint x="1450" y="230" />
+              <mxPoint x="810" y="230" />
+              <mxPoint x="830" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aoszYgEWPdiQylzjzB4t-7" value="选择待测板型号on_comboBox_switchBoard_currentTextChanged()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="630" width="390" height="30" as="geometry" />
+          <mxGeometry x="1110" y="250" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aoszYgEWPdiQylzjzB4t-9" value="PN配置on_button_set_pn_clicked()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="320" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aoszYgEWPdiQylzjzB4t-10" value="SN配置on_button_set_sn_clicked()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="320" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
