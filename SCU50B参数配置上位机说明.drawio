@@ -368,6 +368,12 @@
         <mxCell id="uWLSrax9oehgRug97Yif-153" value="定时检查电机连接状态onTimeout()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="2470" y="650" width="230" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-159" value="&lt;div&gt;基础信息解析（播种施肥/转速/状态）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3070" y="451" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-160" value="&lt;div&gt;配置信息反馈解析parseFeedbackData()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3070" y="500" width="240" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
