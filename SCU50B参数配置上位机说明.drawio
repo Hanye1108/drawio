@@ -91,16 +91,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-47" value="MainWindow_start" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="171" width="120" height="30" as="geometry" />
+          <mxGeometry x="2310" y="171" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-49" target="uWLSrax9oehgRug97Yif-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-49" value="定时更新电机基础信息upDateLedData()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2390" y="171" width="270" height="30" as="geometry" />
+          <mxGeometry x="2450" y="171" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uWLSrax9oehgRug97Yif-50" value="本机串口端口号排序newPortStringList_sort()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2690" y="171" width="270" height="30" as="geometry" />
+        <mxCell id="uWLSrax9oehgRug97Yif-50" value="创建MdiArea副窗口createSubWindow()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="171" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-51" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-52" target="uWLSrax9oehgRug97Yif-54">
           <mxGeometry relative="1" as="geometry" />
