@@ -262,8 +262,14 @@
         <mxCell id="uWLSrax9oehgRug97Yif-127" value="定时读取CAN数据ReadCanDataFunc()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="2470" y="500" width="230" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-128" target="uWLSrax9oehgRug97Yif-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-128" target="uWLSrax9oehgRug97Yif-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-128" value="&lt;div&gt;接收CAN数据解析dataAnalysis_can()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2789" y="500" width="240" height="30" as="geometry" />
+          <mxGeometry x="2760" y="500" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-129" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-130" target="uWLSrax9oehgRug97Yif-132">
           <mxGeometry relative="1" as="geometry" />
@@ -369,10 +375,10 @@
           <mxGeometry x="2470" y="650" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-159" value="&lt;div&gt;基础信息解析（播种施肥/转速/状态）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="3070" y="451" width="240" height="30" as="geometry" />
+          <mxGeometry x="3050" y="450" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-160" value="&lt;div&gt;配置信息反馈解析parseFeedbackData()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="3070" y="500" width="240" height="30" as="geometry" />
+          <mxGeometry x="3050" y="499" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
