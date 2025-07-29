@@ -105,7 +105,7 @@
         <mxCell id="uWLSrax9oehgRug97Yif-51" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-52" target="uWLSrax9oehgRug97Yif-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uWLSrax9oehgRug97Yif-52" value="打开串口on_UART_OPEN_clicked()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="uWLSrax9oehgRug97Yif-52" value="创建下侧状态栏createStatusBar()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="2340" y="241" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-53" value="" style="curved=1;endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-50" target="uWLSrax9oehgRug97Yif-52">
@@ -122,7 +122,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uWLSrax9oehgRug97Yif-54" value="选择待测板型号on_comboBox_switchBoard_currentTextChanged()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="uWLSrax9oehgRug97Yif-54" value="创建菜单栏Action动作on_action1_triggered()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="2600" y="241" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-55" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-56" target="uWLSrax9oehgRug97Yif-58">
