@@ -253,6 +253,9 @@
         <mxCell id="uWLSrax9oehgRug97Yif-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-125" target="uWLSrax9oehgRug97Yif-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-125" target="uWLSrax9oehgRug97Yif-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-125" value="connect_widget_start" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="2280" y="580" width="130" height="30" as="geometry" />
         </mxCell>
@@ -383,11 +386,17 @@
         <mxCell id="uWLSrax9oehgRug97Yif-160" value="&lt;div&gt;配置信息反馈解析parseFeedbackData()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="3050" y="499" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-163" target="uWLSrax9oehgRug97Yif-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-163" value="CAN连接打开/关闭on_button_can_clicked()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="2470" y="710" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-164" value="&lt;div&gt;获取当前连接电机编号getMotorNumber()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="3050" y="396" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-166" value="查询基础信息on_pushButton_clicked()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2770" y="710" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
