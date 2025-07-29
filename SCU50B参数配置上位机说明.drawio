@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="NeOZQ0dyBE4NOlgX1TNu">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uWLSrax9oehgRug97Yif-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="760" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-3" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;MainWindow&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="530" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-4" value="QListWidget&lt;br&gt;用于切换副界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="110" width="110" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-5" value="状态栏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="496" width="720" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-6" value="QPushButton&lt;br&gt;主要功能按键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="341" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-7" value="QGroupBox&amp;nbsp; &amp;nbsp; 基础信息显示&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="401" width="600" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-8" value="QLCDNumber" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-9" value="QLCDNumber" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-10" value="QLCDNumber" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-11" value="QLCDNumber" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-12" value="QMdiArea&lt;br&gt;用于切换副界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="110" width="600" height="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
