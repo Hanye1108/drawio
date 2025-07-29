@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="NeOZQ0dyBE4NOlgX1TNu">
-    <mxGraphModel dx="1141" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -331,23 +331,61 @@
         <mxCell id="uWLSrax9oehgRug97Yif-182" value="定时添加转速数据realtimeDataSlot()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="3970" y="550" width="260" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-186" target="uWLSrax9oehgRug97Yif-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-186" target="uWLSrax9oehgRug97Yif-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-186" target="uWLSrax9oehgRug97Yif-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-186" target="uWLSrax9oehgRug97Yif-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-186" value="para_window_start" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="3450" y="211" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-188" target="uWLSrax9oehgRug97Yif-189">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-188" value="通用配置表格初始化excelInit_general()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="3620" y="130" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uWLSrax9oehgRug97Yif-189" value="创建MdiArea副窗口createSubWindow()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="3940" y="205" width="240" height="30" as="geometry" />
+        <mxCell id="uWLSrax9oehgRug97Yif-189" value="通用配置双击表格项槽函数on_tableWidget_general_doubleClicked()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3890" y="130" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-196">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3850.2" y="194.79999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-196" target="uWLSrax9oehgRug97Yif-205">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-196" value="保护配置表格初始化excelInit_protect()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="3620" y="180" width="230" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-197" target="uWLSrax9oehgRug97Yif-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-197" value="硬件配置表格初始化excelInit_hardware()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="3620" y="230" width="230" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="uWLSrax9oehgRug97Yif-198" target="uWLSrax9oehgRug97Yif-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uWLSrax9oehgRug97Yif-198" value="驱动配置表格初始化excelInit_driver()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="3620" y="285" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-205" value="保护配置双击表格项槽函数on_tableWidget_protect_doubleClicked()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3890" y="180" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-206" value="硬件配置双击表格项槽函数on_tableWidget_hardware_doubleClicked()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3890" y="230" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uWLSrax9oehgRug97Yif-207" value="驱动配置双击表格项槽函数on_tableWidget_driver_doubleClicked()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3890" y="285" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
