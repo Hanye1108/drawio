@@ -174,6 +174,9 @@
         <mxCell id="_BM-QSgADzKD-mihh4dB-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="_BM-QSgADzKD-mihh4dB-95" target="_BM-QSgADzKD-mihh4dB-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_BM-QSgADzKD-mihh4dB-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="_BM-QSgADzKD-mihh4dB-95" target="_BM-QSgADzKD-mihh4dB-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_BM-QSgADzKD-mihh4dB-95" value="开始测试on_pushButton_starttest_clicked()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1200" y="790" width="260" height="30" as="geometry" />
         </mxCell>
@@ -191,6 +194,9 @@
         </mxCell>
         <mxCell id="_BM-QSgADzKD-mihh4dB-108" value="图表数据更新customPlotinfo1Update()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1510" y="740" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_BM-QSgADzKD-mihh4dB-110" value="定时表格写数据saveTimeHandle()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="690" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
