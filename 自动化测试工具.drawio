@@ -77,13 +77,13 @@
           <mxGeometry x="1460" y="334" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_BM-QSgADzKD-mihh4dB-61" value="定时电机状态检查checkMotorSta()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="384" width="230" height="30" as="geometry" />
+          <mxGeometry x="1170" y="380" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_BM-QSgADzKD-mihh4dB-62" value="测试变速onTimerTimeout()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="434" width="170" height="30" as="geometry" />
+          <mxGeometry x="1170" y="430" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_BM-QSgADzKD-mihh4dB-63" value="图表数据更新customPlotinfo1Update()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="484" width="230" height="30" as="geometry" />
+          <mxGeometry x="1170" y="480" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_BM-QSgADzKD-mihh4dB-67" value="测试时长计时updateTime()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1170" y="530" width="170" height="30" as="geometry" />
