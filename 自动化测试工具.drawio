@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="-zi2jbwvVHgvnpBosArk">
-    <mxGraphModel dx="983" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,15 +73,6 @@
         <mxCell id="_BM-QSgADzKD-mihh4dB-56" value="定时读取CAN数据ReadCanDataFunc()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1170" y="334" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_BM-QSgADzKD-mihh4dB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="_BM-QSgADzKD-mihh4dB-60" target="_BM-QSgADzKD-mihh4dB-65">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_BM-QSgADzKD-mihh4dB-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="_BM-QSgADzKD-mihh4dB-60" target="_BM-QSgADzKD-mihh4dB-64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_BM-QSgADzKD-mihh4dB-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="_BM-QSgADzKD-mihh4dB-60" target="_BM-QSgADzKD-mihh4dB-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_BM-QSgADzKD-mihh4dB-60" value="&lt;div&gt;接收CAN数据解析dataAnalysis_can()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1460" y="334" width="240" height="30" as="geometry" />
         </mxCell>
@@ -94,17 +85,8 @@
         <mxCell id="_BM-QSgADzKD-mihh4dB-63" value="图表数据更新customPlotinfo1Update()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1170" y="484" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_BM-QSgADzKD-mihh4dB-64" value="&lt;div&gt;基础信息解析（播种施肥/转速/状态）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="284" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_BM-QSgADzKD-mihh4dB-65" value="&lt;div&gt;配置信息反馈解析parseFeedbackData()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="333" width="240" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="_BM-QSgADzKD-mihh4dB-67" value="测试时长计时updateTime()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1170" y="530" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_BM-QSgADzKD-mihh4dB-68" value="&lt;div&gt;获取当前连接电机编号getMotorNumber()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="230" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_BM-QSgADzKD-mihh4dB-70" value="motorBatchTestTool" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="710" y="363" width="130" height="30" as="geometry" />
