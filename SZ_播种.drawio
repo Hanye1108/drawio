@@ -101,7 +101,7 @@
         <mxCell id="UMef8A2W53G7Eu2KbrEZ-37" value="平板/上位机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="612" y="93" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UMef8A2W53G7Eu2KbrEZ-38" value="电机上电3s内处于监听状态，只接受CAN数据不自动向外发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-38" value="电机上电3s内处于监听状态，只接收CAN数据不自动向外发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="438" y="60" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
