@@ -123,8 +123,13 @@
         <mxCell id="UMef8A2W53G7Eu2KbrEZ-40" value="是否进入自动编号模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="200" width="104" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="UMef8A2W53G7Eu2KbrEZ-41" value="自动计算地址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="482" y="337" width="88" height="21" as="geometry" />
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UMef8A2W53G7Eu2KbrEZ-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="526.0645161290322" y="382.2258025138609" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-41" value="自动计算从机地址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="341" width="112" height="21" as="geometry" />
         </mxCell>
         <mxCell id="UMef8A2W53G7Eu2KbrEZ-42" value="电机ID归0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="614" y="281.5" width="88" height="21" as="geometry" />
@@ -147,6 +152,23 @@
         </mxCell>
         <mxCell id="UMef8A2W53G7Eu2KbrEZ-43" value="电机ID是否为0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="271" width="104" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMef8A2W53G7Eu2KbrEZ-56" target="UMef8A2W53G7Eu2KbrEZ-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-56" value="编号修改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="384" width="72" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UMef8A2W53G7Eu2KbrEZ-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="526.0645161290322" y="468.41935483870964" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-57" value="退出自动编号模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="468" y="425" width="116" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-58" value="正常作业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495.5" y="470" width="61" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
