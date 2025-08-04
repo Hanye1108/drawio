@@ -36,8 +36,61 @@
         <mxCell id="UMef8A2W53G7Eu2KbrEZ-12" value="系统上电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="410" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UMef8A2W53G7Eu2KbrEZ-15" target="UMef8A2W53G7Eu2KbrEZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-20" value="CAN1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UMef8A2W53G7Eu2KbrEZ-19">
+          <mxGeometry x="-0.4423" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UMef8A2W53G7Eu2KbrEZ-15" value="平板/上位机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="30" width="80" height="30" as="geometry" />
+          <mxGeometry x="155" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMef8A2W53G7Eu2KbrEZ-18" target="UMef8A2W53G7Eu2KbrEZ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-29" value="CAN2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UMef8A2W53G7Eu2KbrEZ-28">
+          <mxGeometry x="0.446" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMef8A2W53G7Eu2KbrEZ-18" target="UMef8A2W53G7Eu2KbrEZ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMef8A2W53G7Eu2KbrEZ-18" target="UMef8A2W53G7Eu2KbrEZ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-34" value="485" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UMef8A2W53G7Eu2KbrEZ-33">
+          <mxGeometry x="0.3831" relative="1" as="geometry">
+            <mxPoint y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-18" value="控制器/下位机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-23" value="单体电驱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-24" value="接近开关（起落）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-25" value="余料/风压" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-26" value="探头" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-27" value="全部单体电驱" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.563;entryY=-0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UMef8A2W53G7Eu2KbrEZ-18" target="UMef8A2W53G7Eu2KbrEZ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-31" value="ADC1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UMef8A2W53G7Eu2KbrEZ-30">
+          <mxGeometry x="-0.2523" relative="1" as="geometry">
+            <mxPoint x="-1" y="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
