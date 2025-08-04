@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="hQQTb26Kw4SWq1hqYUZ3">
-    <mxGraphModel dx="802" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="672" dy="340" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,6 +91,18 @@
           <mxGeometry x="-0.2523" relative="1" as="geometry">
             <mxPoint x="-1" y="-3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-35" value="平板/上位机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="612" y="57" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-36" value="电机自动编号功能：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="32" width="126" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-37" value="平板/上位机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="612" y="93" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UMef8A2W53G7Eu2KbrEZ-38" value="电机上电3s内处于监听状态，只接受CAN数据不自动向外发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="438" y="60" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
