@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="第 1 页" id="JH25icIa2h7-tsWDrVGM">
-    <mxGraphModel dx="1011" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="837" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,7 +45,7 @@
             <mxPoint x="740" y="389.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z0nP8aCic9tiTnVXhcMt-10" value="CAN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="Z0nP8aCic9tiTnVXhcMt-9">
+        <mxCell id="Z0nP8aCic9tiTnVXhcMt-10" value="串口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="Z0nP8aCic9tiTnVXhcMt-9">
           <mxGeometry x="-0.063" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -97,6 +97,29 @@
         </mxCell>
         <mxCell id="Z0nP8aCic9tiTnVXhcMt-26" value="功能：&lt;br&gt;进入、退出无人；&lt;br&gt;PTO开关、悬挂升降、急停（拓展继电器）；" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1020" y="570" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0nP8aCic9tiTnVXhcMt-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499.58" y="430" as="sourcePoint" />
+            <mxPoint x="499.58" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z0nP8aCic9tiTnVXhcMt-28" value="功能：&lt;div&gt;数据透传，参数设置，进入、退出无人&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0nP8aCic9tiTnVXhcMt-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;方向盘&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="230" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0nP8aCic9tiTnVXhcMt-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.789;exitY=-0.035;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Z0nP8aCic9tiTnVXhcMt-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="834.66" y="340" as="sourcePoint" />
+            <mxPoint x="834.66" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z0nP8aCic9tiTnVXhcMt-31" value="CAN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="Z0nP8aCic9tiTnVXhcMt-30">
+          <mxGeometry x="-0.1833" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
