@@ -336,6 +336,21 @@
             <mxPoint x="18" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ExbgwJND6LMS-5XFA1W5-46" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.353;exitY=1.04;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;flowAnimation=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="225" y="359.9999999999998" as="sourcePoint" />
+            <mxPoint x="477" y="357.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="255" y="329.9999999999998" />
+              <mxPoint x="435" y="329.9999999999998" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ExbgwJND6LMS-5XFA1W5-47" value="⑥状态回传" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ExbgwJND6LMS-5XFA1W5-46">
+          <mxGeometry x="0.0909" y="2" relative="1" as="geometry">
+            <mxPoint x="-12" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
