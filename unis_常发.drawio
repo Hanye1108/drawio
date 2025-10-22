@@ -95,7 +95,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z0nP8aCic9tiTnVXhcMt-26" value="功能：&lt;br&gt;进入、退出无人；&lt;br&gt;PTO开关、悬挂升降、急停（拓展继电器）；" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="Z0nP8aCic9tiTnVXhcMt-26" value="功能：&lt;br&gt;进入、退出无人；&lt;br&gt;PTO开关、悬挂升降、急停（拓展继电器强制熄火停车）；" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1020" y="570" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z0nP8aCic9tiTnVXhcMt-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
