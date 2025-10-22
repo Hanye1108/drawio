@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="第 1 页" id="JH25icIa2h7-tsWDrVGM">
-    <mxGraphModel dx="1151" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1943" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -358,14 +358,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-48" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="1110" width="60" height="20" as="geometry" />
+          <mxGeometry x="577.5" y="710" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-49" value="驾驶模式切换" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="17.5" y="1080" width="100" height="30" as="geometry" />
+          <mxGeometry x="490" y="680" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExbgwJND6LMS-5XFA1W5-57">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="135" y="1260" as="targetPoint" />
+            <mxPoint x="607.5" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-70" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ExbgwJND6LMS-5XFA1W5-63">
@@ -382,16 +382,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-57" value="VCU进入无人" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="1190" width="80" height="50" as="geometry" />
+          <mxGeometry x="567.5" y="790" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExbgwJND6LMS-5XFA1W5-60" target="ExbgwJND6LMS-5XFA1W5-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-60" value="平板发出请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="86.25" y="1150" width="97.5" height="20" as="geometry" />
+          <mxGeometry x="558.75" y="750" width="97.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-64" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="109" y="1370" width="52" height="20" as="geometry" />
+          <mxGeometry x="581.5" y="970" width="52" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExbgwJND6LMS-5XFA1W5-66" target="ExbgwJND6LMS-5XFA1W5-67">
           <mxGeometry relative="1" as="geometry" />
@@ -410,13 +410,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-66" value="NCU进入无人" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="1260" width="80" height="50" as="geometry" />
+          <mxGeometry x="567.5" y="860" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExbgwJND6LMS-5XFA1W5-67" target="ExbgwJND6LMS-5XFA1W5-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-67" value="无人作业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="99.5" y="1330" width="71" height="20" as="geometry" />
+          <mxGeometry x="572" y="930" width="71" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
