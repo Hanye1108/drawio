@@ -104,8 +104,8 @@
             <mxPoint x="499.58" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z0nP8aCic9tiTnVXhcMt-28" value="功能：&lt;div&gt;①数据透传（翻译）&lt;/div&gt;&lt;div&gt;②参数设置，进入、退出无人，雷达监测范围设置，避障开关，作业速度限制；&lt;/div&gt;&lt;div&gt;安全机制：&lt;/div&gt;&lt;div&gt;平板需检测MC6是否有连续数据发出，出现短链现象须立即控制车辆停车并退出无人模式&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="420" y="495" width="170" height="125" as="geometry" />
+        <mxCell id="Z0nP8aCic9tiTnVXhcMt-28" value="功能：&lt;div&gt;①数据透传（翻译）&lt;/div&gt;&lt;div&gt;②参数设置，进入、退出无人，雷达监测范围设置，避障开关，作业速度限制；&lt;/div&gt;&lt;div&gt;③安全机制：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;平板需监测MC6是否有连续数据发出，出现短链现象须立即控制车辆停车并退出无人模式&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="380" y="500" width="240" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Z0nP8aCic9tiTnVXhcMt-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;EPS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="230" width="50" height="60" as="geometry" />
