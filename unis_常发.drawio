@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="第 1 页" id="JH25icIa2h7-tsWDrVGM">
-    <mxGraphModel dx="1943" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1110" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -239,30 +239,6 @@
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-25" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="117.5" y="860" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ExbgwJND6LMS-5XFA1W5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExbgwJND6LMS-5XFA1W5-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1300" y="850" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ExbgwJND6LMS-5XFA1W5-28" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1265" y="790" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ExbgwJND6LMS-5XFA1W5-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ExbgwJND6LMS-5XFA1W5-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1300" y="910" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ExbgwJND6LMS-5XFA1W5-33" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ExbgwJND6LMS-5XFA1W5-32">
-          <mxGeometry x="0.0667" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ExbgwJND6LMS-5XFA1W5-29" value="是否存在无人路径" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1232.5" y="850" width="135" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ExbgwJND6LMS-5XFA1W5-30" value="路径规划（农具控制）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="940" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="ExbgwJND6LMS-5XFA1W5-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
