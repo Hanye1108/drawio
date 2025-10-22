@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="第 1 页" id="JH25icIa2h7-tsWDrVGM">
-    <mxGraphModel dx="1243" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1151" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ExbgwJND6LMS-5XFA1W5-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1050" width="665" height="370" as="geometry" />
+        </mxCell>
         <mxCell id="Z0nP8aCic9tiTnVXhcMt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Z0nP8aCic9tiTnVXhcMt-1" target="Z0nP8aCic9tiTnVXhcMt-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -240,14 +243,18 @@
         <mxCell id="ExbgwJND6LMS-5XFA1W5-25" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="117.5" y="860" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ExbgwJND6LMS-5XFA1W5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExbgwJND6LMS-5XFA1W5-28" target="ExbgwJND6LMS-5XFA1W5-29">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ExbgwJND6LMS-5XFA1W5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExbgwJND6LMS-5XFA1W5-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300" y="850" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-28" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="782.5" y="840" width="70" height="30" as="geometry" />
+          <mxGeometry x="1265" y="790" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ExbgwJND6LMS-5XFA1W5-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExbgwJND6LMS-5XFA1W5-29" target="ExbgwJND6LMS-5XFA1W5-30">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ExbgwJND6LMS-5XFA1W5-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ExbgwJND6LMS-5XFA1W5-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300" y="910" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-33" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ExbgwJND6LMS-5XFA1W5-32">
           <mxGeometry x="0.0667" y="-2" relative="1" as="geometry">
@@ -255,10 +262,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-29" value="是否存在无人路径" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="900" width="135" height="60" as="geometry" />
+          <mxGeometry x="1232.5" y="850" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-30" value="路径规划（农具控制）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="757.5" y="990" width="120" height="30" as="geometry" />
+          <mxGeometry x="1240" y="940" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="ExbgwJND6LMS-5XFA1W5-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -350,14 +357,25 @@
             <mxPoint x="-12" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ExbgwJND6LMS-5XFA1W5-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExbgwJND6LMS-5XFA1W5-48" target="ExbgwJND6LMS-5XFA1W5-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ExbgwJND6LMS-5XFA1W5-54" value="请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ExbgwJND6LMS-5XFA1W5-53">
+          <mxGeometry x="-0.3469" y="2" relative="1" as="geometry">
+            <mxPoint x="11" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-48" value="平板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="1170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-49" value="驾驶模式切换" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="220" width="100" height="30" as="geometry" />
+          <mxGeometry x="67.5" y="1060" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-50" value="VCU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="1170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExbgwJND6LMS-5XFA1W5-52" value="①平板手动进入" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="67.5" y="1110" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
