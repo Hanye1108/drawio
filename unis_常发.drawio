@@ -207,7 +207,7 @@
         <mxCell id="ExbgwJND6LMS-5XFA1W5-17" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="120" y="950" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ExbgwJND6LMS-5XFA1W5-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="ExbgwJND6LMS-5XFA1W5-17" target="ExbgwJND6LMS-5XFA1W5-19">
+        <mxCell id="ExbgwJND6LMS-5XFA1W5-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="ExbgwJND6LMS-5XFA1W5-25" target="ExbgwJND6LMS-5XFA1W5-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="960" as="sourcePoint" />
             <mxPoint x="360" y="960" as="targetPoint" />
@@ -233,6 +233,15 @@
         </mxCell>
         <mxCell id="ExbgwJND6LMS-5XFA1W5-24" value="车尾在B点时停车，升悬挂关PTO" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="1020" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ExbgwJND6LMS-5XFA1W5-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="ExbgwJND6LMS-5XFA1W5-17" target="ExbgwJND6LMS-5XFA1W5-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="960" as="sourcePoint" />
+            <mxPoint x="310" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ExbgwJND6LMS-5XFA1W5-25" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="950" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
