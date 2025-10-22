@@ -272,7 +272,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ExbgwJND6LMS-5XFA1W5-35" value="①获取无人路径" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ExbgwJND6LMS-5XFA1W5-34">
+        <mxCell id="ExbgwJND6LMS-5XFA1W5-35" value="①获取无人路径，驾驶模式切换" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ExbgwJND6LMS-5XFA1W5-34">
           <mxGeometry x="-0.0285" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
