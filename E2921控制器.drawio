@@ -80,6 +80,17 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yR-WyYKmH3iRzWhLvyJJ-21" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="290" y="319.8" as="sourcePoint" />
+            <mxPoint x="430" y="319.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yR-WyYKmH3iRzWhLvyJJ-22" connectable="0" parent="yR-WyYKmH3iRzWhLvyJJ-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="RS485" vertex="1">
+          <mxGeometry relative="1" x="-0.1667" y="-2" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
