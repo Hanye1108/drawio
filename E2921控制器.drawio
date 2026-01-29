@@ -47,15 +47,27 @@
         </mxCell>
         <mxCell id="yR-WyYKmH3iRzWhLvyJJ-10" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="560" y="229.58" as="sourcePoint" />
-            <mxPoint x="630" y="229.58" as="targetPoint" />
+            <mxPoint x="560" y="219.58" as="sourcePoint" />
+            <mxPoint x="630" y="219.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yR-WyYKmH3iRzWhLvyJJ-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CAN分析仪" vertex="1">
+        <mxCell id="yR-WyYKmH3iRzWhLvyJJ-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="USBtoRS232" vertex="1">
           <mxGeometry height="40" width="120" x="430" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="yR-WyYKmH3iRzWhLvyJJ-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CAN分析仪" vertex="1">
+        <mxCell id="yR-WyYKmH3iRzWhLvyJJ-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="USBtoRS485" vertex="1">
           <mxGeometry height="40" width="120" x="430" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="yR-WyYKmH3iRzWhLvyJJ-16" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="269.58" as="sourcePoint" />
+            <mxPoint x="630" y="269.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yR-WyYKmH3iRzWhLvyJJ-17" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="319.58" as="sourcePoint" />
+            <mxPoint x="630" y="319.58" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
