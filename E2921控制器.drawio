@@ -127,8 +127,8 @@
             <mxPoint x="-2" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yR-WyYKmH3iRzWhLvyJJ-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="降压模块" vertex="1">
-          <mxGeometry height="20" width="70" x="390" y="404" as="geometry" />
+        <mxCell id="yR-WyYKmH3iRzWhLvyJJ-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="降压模块-3.4V" vertex="1">
+          <mxGeometry height="20" width="90" x="386" y="404" as="geometry" />
         </mxCell>
         <mxCell id="yR-WyYKmH3iRzWhLvyJJ-33" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
