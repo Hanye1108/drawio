@@ -42,6 +42,9 @@
         <mxCell id="yR-WyYKmH3iRzWhLvyJJ-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CAN分析仪" vertex="1">
           <mxGeometry height="60" width="120" x="430" y="200" as="geometry" />
         </mxCell>
+        <mxCell id="yR-WyYKmH3iRzWhLvyJJ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="PC" vertex="1">
+          <mxGeometry height="330" width="120" x="640" y="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
